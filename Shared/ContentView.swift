@@ -19,3 +19,9 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+// 蓝条标注
+
+// 这个东西是啥
+
+// 右边有显示吗
