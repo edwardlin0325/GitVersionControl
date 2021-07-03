@@ -30,3 +30,5 @@ struct ContentView_Previews: PreviewProvider {
 
 
 // Important Project. Saved on Github
+
+// Stabl Version. For App Store.
